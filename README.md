@@ -124,3 +124,123 @@ Working with Cleaning Data
 * Downsampling Majority
 
 * Upsampling Then Downsampling
+
+## Day Ten:
+
+* Classification Algorithms
+
+## Day Eleven:
+
+* Model Selection
+
+## Day Twelve:
+
+* Metrics and Classification Evaluation
+
+* Confusion Matrix
+
+* Metrics
+
+* Accuracy
+
+* Recall
+
+* Precision
+
+* F1
+
+* Classification Report
+
+* RoC
+
+* Precision-Recall Curve
+
+* Cumulative Gains Plot
+
+* Lift Curve
+
+* Class Balance
+
+* Class Prediction Error
+
+* Discrimination Threshold
+
+## Day Thirteen:
+
+* Explaining Classification Model
+
+## Day Fourteen:
+
+* Regression Algorithms
+
+## Day Fifteen:
+
+* Metrics and Regression Evaluation
+
+## Day Sixteen:
+
+* Explaining Regression Model
+
+## Day Seventeen:
+
+* Dimensionality Reduction
+
+## Day Eighteen:
+
+* Clustering
+
+## Day Nineteen:
+
+* Implementing Pipeline
+
+## Day Twenty:
+
+* Neural networks
+
+* Artificial neural networks (ANN)
+
+## Day Twenty-one:
+### Project:
+
+* ANN walkthrough: Predicting Stock Prices
+
+## Day Twenty-two:
+
+* Natural Language Processing (NLP)
+
+## Day Twenty-three:
+### Project:
+
+* NLP walkthrough: Mining Newsgroups Dataset
+
+## Day Twenty-four:
+
+* Deep Learning Basics
+
+## Day Twenty-five:
+
+* Problems and Solutions
+
+## Day Twenty-six:
+
+* Machine Learning best practices
+
+## Day Twenty-seven:
+### Project: 
+
+* Building a Movie Recommendation Engine
+
+## Day Twenty-eight:
+### Project: 
+
+* Recognizing Faces
+
+## Day Twenty-nine:
+### Project:
+
+Predicting Online Ad Click-Through: Tree-based Algorithm
+
+## Day Thirty:
+### Project: 
+
+NewsGroups Dataset with Clustering and Topic Modeling
