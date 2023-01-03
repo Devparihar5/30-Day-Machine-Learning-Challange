@@ -238,9 +238,9 @@ Working with Cleaning Data
 ## Day Twenty-nine:
 ### Project:
 
-Predicting Online Ad Click-Through: Tree-based Algorithm
+* Predicting Online Ad Click-Through: Tree-based Algorithm
 
 ## Day Thirty:
 ### Project: 
 
-NewsGroups Dataset with Clustering and Topic Modeling
+* NewsGroups Dataset with Clustering and Topic Modeling
