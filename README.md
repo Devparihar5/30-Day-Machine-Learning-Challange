@@ -1,4 +1,4 @@
-# Machine Learning Challenge: 30 days roadmap
+# Machine Learning Challange: 30 days roadmap
 
 > This is a tentative roadmap for our 30 days machine learning challange. I will add more information along the way.
 
